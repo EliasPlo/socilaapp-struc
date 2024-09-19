@@ -1,4 +1,4 @@
-## Users database schema 
+### Users database schema 
         {
         "users": [
             {
