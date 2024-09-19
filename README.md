@@ -1,0 +1,1 @@
+# socilaapp-struc
